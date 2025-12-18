@@ -1,0 +1,19 @@
+<schedule>
+  <day>Thursday</day>
+  <lessons>
+    <lesson>
+      <time>17:10-18:40</time>
+      <subject>Informatics (Lab)</subject>
+      <room>1324</room>
+      <building>Kronverksky pr., 49</building>
+      <format>offline-online</format>
+    </lesson>
+    <lesson>
+      <time>18:50-20:20</time>
+      <subject>Informatics (Lab)</subject>
+      <room>3315</room>
+      <building>Lomonosova st., 9</building>
+      <format>offline-online</format>
+    </lesson>
+  </lessons>
+</schedule>
